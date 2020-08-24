@@ -6,9 +6,9 @@ This is a C++ implementation of C++ networking to perform Terminal chat between 
   `g++ server.cpp -o server`
 #### 2. Run server
   `./server`
-#### 1. Compile server.cpp file using command
+#### 3. Compile server.cpp file using command
   `g++ client.cpp -o server`
-#### 2. Run server
+#### 4. Run server
   `./client`
 <hr/>
 <b>NOTE : </b> Always run the compiled serve file before running the client
