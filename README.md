@@ -11,4 +11,4 @@ This is a C++ implementation of C++ networking to perform Terminal chat between 
 #### 4. Run server
   `./client`
 <hr/>
-<b>NOTE : </b> Always run the compiled serve file before running the client
+<b>NOTE : </b> Always run the compiled server file before running the client
